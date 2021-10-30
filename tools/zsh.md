@@ -47,5 +47,6 @@ plugins=(
  - Reopen terminal
 
  Documentation:
+ 
  `https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95`
  `https://github.com/superbrothers/zsh-kubectl-prompt`
