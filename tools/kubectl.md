@@ -41,3 +41,7 @@ echo "$(<kubectl.sha256) kubectl" | sha256sum --check
 ```
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 ```
+
+Documentation:
+
+`https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/`
