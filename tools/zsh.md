@@ -26,7 +26,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
  git clone git@github.com:superbrothers/zsh-kubectl-prompt.git $ZSH_CUSTOM/plugins/zsh-kubectl-prompt
  ```
 
-  - `nano ~/.zshrc` find `plugins=(git)`
+  - `vim ~/.zshrc` find `plugins=(git)`
  
  - Append 
  ```bash
